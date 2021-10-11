@@ -45,9 +45,9 @@
       "datetime":"2018-06-22T21:24:15.541Z"
    },
    "assets":{
-      "https://raw.githubusercontent.com/skorper/stac-test/main/0/S6A_P4_2_LR_STD_ST_002_102_20180622T212415_20180622T222028_F00_subsetted.nc4":{
-         "href":"https://raw.githubusercontent.com/skorper/stac-test/main/0/S6A_P4_2_LR_STD_ST_002_102_20180622T212415_20180622T222028_F00_subsetted.nc4",
-         "title":"S6A_P4_2_LR_STD_ST_002_102_20180622T212415_20180622T222028_F00_subsetted.nc4",
+      "https://raw.githubusercontent.com/skorper/stac-test/main/0/20020704001006-JPL-L2P_GHRSST-SSTskin-MODIS_A-N-v02.0-fv01.0_subsetted.nc4":{
+         "href":"https://raw.githubusercontent.com/skorper/stac-test/main/0/20020704001006-JPL-L2P_GHRSST-SSTskin-MODIS_A-N-v02.0-fv01.0_subsetted.nc4",
+         "title":"20020704001006-JPL-L2P_GHRSST-SSTskin-MODIS_A-N-v02.0-fv01.0_subsetted.nc4",
          "type":"application/x-netcdf4",
          "roles":[
             "data"
