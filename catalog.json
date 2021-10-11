@@ -1,0 +1,24 @@
+{
+  "id": "7fb2649b-7127-43aa-b47a-31f7ada1e785",
+  "stac_version": "0.9.0",
+  "title": "Harmony output for 7fb2649b-7127-43aa-b47a-31f7ada1e785",
+  "description": "",
+  "links": [
+    {
+      "href": ".",
+      "rel": "root",
+      "title": "root"
+    },
+    {
+      "href": "./0",
+      "rel": "item",
+      "title": "S6A_P4_2_LR_STD_ST_002_102_20180622T212415_20180622T222028_F00_subsetted.nc4"
+    },
+    {
+      "title": "The current page",
+      "href": "https://raw.githubusercontent.com/skorper/stac-test/main/catalog.json",
+      "rel": "self",
+      "type": "application/json"
+    }
+  ]
+}
